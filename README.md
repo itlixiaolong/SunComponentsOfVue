@@ -10,7 +10,7 @@ title和body属性都是可以default，但是enterback是Function用default无�
 
 1. modalDialog：main.js中声明使用，父组件中通过子组件声明标签使用，使用**prop**传递数据
 
-2. alertConstructor：使用[@jessica](https://mengera88.github.io/2017/07/03/%E7%94%A8vue%E7%BC%96%E5%86%99%E5%BC%B9%E5%87%BA%E6%A1%86%E7%BB%84%E4%BB%B6/?utm_source=tuicool&utm_medium=referral)为基础做修改，异步插入到DOM界面中，在子组件中控制显示隐藏
+2. alertConstructor：使用[@jessica写的组件](https://mengera88.github.io/2017/07/03/%E7%94%A8vue%E7%BC%96%E5%86%99%E5%BC%B9%E5%87%BA%E6%A1%86%E7%BB%84%E4%BB%B6/?utm_source=tuicool&utm_medium=referral)为基础做修改，异步插入到DOM界面中，在子组件中控制显示隐藏
 
 遇到问题：
 
